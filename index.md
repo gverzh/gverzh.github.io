@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior student in Shandong University of Technology and will spend my postgraduate years in Soochow University.
+Hi! I’m maxiaolei, a senior student in Shandong University of Technology and i will spend my postgraduate years in Soochow University.
 
 ## News
 
