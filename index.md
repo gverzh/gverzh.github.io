@@ -8,7 +8,7 @@ I am a senior student in Shandong University of Technology and will spend my pos
 
 ## News
 
-- **[OCT 25th, 2022]**  I joined the BeeLab team.
+- **[OCT. 2022]**  I joined the BeeLab team.
 - **[DEC. 2022]** To be updated.
 
 ## Experience
