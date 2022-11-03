@@ -1,6 +1,7 @@
 # Basic Information 
 title: Xiaolei Ma
 position: Senior sutdent
+title-description: academic personal homepage # 网页标题
 affiliation: Shandong University of Technology, Major in software engineering
 email: 525114095@qq.com
 
@@ -14,6 +15,7 @@ canonical: https://gverzh.github.io
 # If you don't need one of them, you may delete the corresponding line. 我先把linked和google scholar注释掉了
 #google_scholar: https://scholar.google.com/
 github_link: https://github.com/gverzh
+twitter_link: https://twitter.com/Jzx_albert
 #linkedin: https://xinyu1213.github.io
 
 # Images (e.g., your profile picture and your website's favicon) 
