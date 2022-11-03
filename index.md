@@ -8,14 +8,11 @@ I am a senior student in Shandong University of Technology and will spend my pos
 
 ## News
 
-- **[OCT. 2022]**  I joined the BeeLab team.
-- **[DEC. 2022]** To be updated.
-
-## Experience
-
-- Retired acm member of Computer Science, Shandong University of Technology  ->  [Acm's official website](https://acm.sdut.edu.cn/)
-- Participated in volunteer service activities for 40 hours in my hometown in 2020
-
+- **[2020]** joined the acm team and started blogging.
+- **[Apr. 2020]** Participated in volunteer service activities for 40 hours in my hometown
+- **[2022]** Retired acm member of Computer Science, Shandong University of Technology  ->  [Acm's official website](https://acm.sdut.edu.cn/)
+- **[Oct. 2022]** joined the BeeLab team.
+- **[Nov. 2022]** To be updated.
 
 ## Projects
 
