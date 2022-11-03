@@ -8,10 +8,10 @@ Hi! I’m maxiaolei, a senior student in Shandong University of Technology and i
 
 ## News
 
-- **[2020]** joined the acm team and started blogging.
+- **[2020]** Joined the acm team and started blogging.
 - **[Apr. 2020]** Participated in volunteer service activities for 40 hours in my hometown
 - **[2022]** Retired acm member of Computer Science, Shandong University of Technology  ->  [Acm's official website](https://acm.sdut.edu.cn/)
-- **[Oct. 2022]** joined the BeeLab team.
+- **[Oct. 2022]** Joined the BeeLab team.
 - **[Nov. 2022]** To be updated.
 
 ## Projects
